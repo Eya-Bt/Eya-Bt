@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eya
 - 👀 I’m interested in embedded software and programming languages
-- 🌱 I’m currently learning tensorflow for ML and DL
+- 🌱 I’m currently learning tensorflow for ML 
 - 📫 How to reach me : my email is bentardeitaya@gmail.com
 
 <!---
